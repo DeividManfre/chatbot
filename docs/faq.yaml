@@ -1,0 +1,9 @@
+faq:
+  - pergunta: "Como recupero minha senha?"
+    resposta: "Você pode recuperar sua senha usando o botão 'Esqueci minha senha' na tela de login."
+
+  - pergunta: "O chatbot usa IA?"
+    resposta: "Sim, nosso chatbot usa integração com modelos de IA e RAG."
+
+  - pergunta: "Como falar com o suporte?"
+    resposta: "Entre em contato via suporte@empresa.com."

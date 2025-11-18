@@ -1,0 +1,9 @@
+processos:
+  atendimento:
+    fluxo:
+      - O chatbot tenta responder com base no RAG
+      - Caso não encontre contexto, encaminha ao suporte
+      - Suporte responde em até 24 horas
+  prioridades:
+    critico: 4 horas
+    normal: 24 horas
