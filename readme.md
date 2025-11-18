@@ -1,4 +1,4 @@
-# Chatbort
+# Chatbot
 
 ### Tecnologias usadas:
 
