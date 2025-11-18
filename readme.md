@@ -7,6 +7,7 @@
 - Faiss, busca vetorial
 - Yaml, base de conhecimento usando markdown
 - Sentence Transformers, para gerar embeddings
+- Backend preparado para integração com n8n
 
 ### Pré requesitos:
 
