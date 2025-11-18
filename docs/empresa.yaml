@@ -1,0 +1,11 @@
+empresa:
+  nome: "Tech IA Solutions"
+  valores:
+    - eficiência
+    - automação
+    - precisão
+  tecnologias:
+    - FastAPI
+    - RAG
+    - N8N
+    - Ollama

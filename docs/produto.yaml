@@ -1,0 +1,10 @@
+produto:
+  nome: "Plataforma Inteligente de Atendimento"
+  descricao: |
+    A plataforma integra chatbots, N8N e IA generativa para oferecer um atendimento automatizado e preciso.
+  
+  recursos:
+    - Chatbot com IA e RAG
+    - Integração com N8N
+    - Automação de processos
+    - Base de conhecimento dinâmica
